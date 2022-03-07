@@ -24,6 +24,7 @@
 ### Inspiração
 
 <p> O projeto foi inspirado em um reprodutor de música. Compartilho este conhecimento através deste vídeo feito pelo <a href="https://www.youtube.com/watch?v=gFP7A_umApE&list=PLJ8PYFcmwFOxmqYNlo_H8TYVSDLxB8HdR&index=2">João Tinti</a></p>
+<p align="left"> 🎸<strong>VIVA O ROCK N' ROLL</strong></p>
 
 <h2 align="center"> 
 	Projeto concluído com sucesso... 🚀
