@@ -8,7 +8,7 @@
 
 - [x] Play da música
 - [x] Pause da música
-- [x] Retorna a música anterior
+- [x] Retorna a música
 - [x] Avança a música 
 
 ### Skills
