@@ -25,17 +25,15 @@
 
 <p> O projeto foi inspirado em um reprodutor de música. Compartilho este conhecimento através deste vídeo feito pelo <a href="https://www.youtube.com/watch?v=gFP7A_umApE&list=PLJ8PYFcmwFOxmqYNlo_H8TYVSDLxB8HdR&index=2">João Tinti</a></p>
 
-<h2 align="center" style="font-size: 1.2rem;"> 
+<h2 align="center"> 
 	Projeto concluído com sucesso... 🚀
 </h2>
 
 ### Resultado
 
-Para ver o resultado deste projeto, basta clonar o projeto as instruções estão abaixo: ⤵️
-
-    <h2 align="left">
-        Clone o projeto da seguinte forma:
-    </h2>
+ <h2 align="left">
+    Clone o projeto para ver o resultado ⤵️
+  </h2>
 
 ```sh
 git clone https://github.com/pamellafernandes/Player_Music
