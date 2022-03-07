@@ -6,8 +6,8 @@
 
 ### Features
 
-- [x] Play da música
-- [x] Pause da música
+- [x] Play na música
+- [x] Pause na música
 - [x] Retorna a música
 - [x] Avança a música 
 
