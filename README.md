@@ -1,8 +1,8 @@
 <h1 align="center">Player Music</h1>
 
-## Descrição do Projeto
+<h3 align="center">Descrição do Projeto</h3>
 
-<p align="center" style="font-size: 1.2rem;">Esse projeto é baseado em um reprodutor de música.</p>
+<p align="center">Esse projeto é baseado em um reprodutor de música.</p>
 
 ### Features
 
