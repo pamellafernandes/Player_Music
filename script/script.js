@@ -29,7 +29,7 @@ let nomeArtista = document.querySelector(".descricao i");
 
 renderizarMusica(indexMusica);
 
-// Eventos
+// Events
 document.querySelector(".botao-play").addEventListener("click", tocarMusica);
 
 document.querySelector(".botao-pause").addEventListener("click", pausarMusica);
@@ -52,7 +52,7 @@ document.querySelector(".proxima").addEventListener("click", () => {
   renderizarMusica(indexMusica);
 });
 
-// Funções
+// Functions
 function renderizarMusica(index) {
   musica.setAttribute("src", musicas[index].src);
   musica.addEventListener("loadeddata", () => {
