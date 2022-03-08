@@ -6,7 +6,7 @@ let musicas = [
     img: "img/arctic.jpg",
   },
   {
-    titulo: "Sweer Child O' Mine",
+    titulo: "Sweet Child O' Mine",
     artista: "Guns N' Roses",
     src: "music/Sweet Child O' Mine.mp3",
     img: "img/guns.jpg",
